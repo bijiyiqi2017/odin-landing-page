@@ -1,0 +1,46 @@
+# Node dependencies 
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Build / deploy artifacts 
+dist/
+build/
+
+# Asset cache or design tools 
+*.psd
+*.fig
+*.xcf
+assets/tmp/
+assets/backup/
+
+# Backup or hidden files
+*~
+*.bak
+*.swp
+
+# Environment files 
+.env
+.env.local
+.env.development
+.env.production
+
+# GitHub Pages Jekyll ignore 
+.jekyll-cache/
+.sass-cache/
+_site/
